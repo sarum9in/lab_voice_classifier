@@ -1,0 +1,6 @@
+[package]
+
+name = "classificator"
+version = "0.0.1"
+authors = ["Aleksey Filippov <sarum9in@gmail.com>"]
+license = "GPL-3.0"
