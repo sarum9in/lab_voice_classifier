@@ -1,6 +1,12 @@
 [package]
-
 name = "classificator"
 version = "0.0.1"
 authors = ["Aleksey Filippov <sarum9in@gmail.com>"]
 license = "GPL-3.0"
+
+[dependencies]
+hound = "0.4.0"
+
+[lib]
+name = "classificator"
+crate-type = ["dylib"]
